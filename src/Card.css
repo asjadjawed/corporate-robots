@@ -1,12 +1,27 @@
-#Card {
+.Card {
+  background: linear-gradient(145deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
   text-align: center;
-  padding: 5px;
-  border: 1px solid black;
-  border-radius: 5px;
+  padding: 12px;
+  border: 2px solid black;
+  border-radius: 7px;
   box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.5);
   transition: transform 300ms;
 }
 
-#Card:hover {
+.Card:hover {
   transform: scale(1.03);
+}
+
+.Card h2 {
+  padding-bottom: 3px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.Card p {
+  font-style: italic;
+}
+
+.Card img {
+  border: 2px solid black;
+  border-radius: 50%;
 }
