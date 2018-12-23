@@ -1,9 +1,30 @@
-html,
 body {
   margin: 0;
-  padding: 0;
+  font-family: "Kameron", serif;
+  min-height: 100vh;
+  background: linear-gradient(121deg, #bfab21, #b54f05);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column-reverse;
 }
 
-body {
-  min-height: 100vh;
+header {
+  padding-bottom: 5px;
+}
+
+h1 {
+  font-family: "Sansita", sans-serif;
+  font-size: 3rem;
+  margin: 10px;
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 + p {
+  font-size: 1.2rem;
+}
+
+input {
+  font-family: "Sansita", sans-serif;
+  font-size: 1rem;
+  background: #e9cc11;
 }
