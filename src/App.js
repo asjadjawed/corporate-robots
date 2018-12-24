@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
+// import Logo from "./Robot.svg";
 import CardList from "./CardList";
 import Scroll from "./Scroll";
 import robotList from "./robots";

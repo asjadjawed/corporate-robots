@@ -10,7 +10,9 @@ const SearchBox = ({ onSearchChange }) => (
       outline: "none",
       border: "1px solid black",
       borderRadius: "40px",
-      padding: "10px"
+      padding: "10px",
+      fontSize: "1rem",
+      fontFamily: `"Sansita", sans-serif`
     }}
     onChange={onSearchChange}
   />
