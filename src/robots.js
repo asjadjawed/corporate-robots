@@ -1,5 +1,5 @@
 import faker from "faker";
-const listLength = 12;
+const listLength = 18;
 
 const robotList = [];
 
