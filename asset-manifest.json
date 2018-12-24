@@ -1,13 +1,13 @@
 {
-  "main.css": "/corporate-robots/static/css/main.cf37ef2f.chunk.css",
-  "main.js": "/corporate-robots/static/js/main.0706b622.chunk.js",
-  "main.js.map": "/corporate-robots/static/js/main.0706b622.chunk.js.map",
-  "static/js/1.6f2068df.chunk.js": "/corporate-robots/static/js/1.6f2068df.chunk.js",
-  "static/js/1.6f2068df.chunk.js.map": "/corporate-robots/static/js/1.6f2068df.chunk.js.map",
+  "main.css": "/corporate-robots/static/css/main.d001497c.chunk.css",
+  "main.js": "/corporate-robots/static/js/main.e0009ea6.chunk.js",
+  "main.js.map": "/corporate-robots/static/js/main.e0009ea6.chunk.js.map",
+  "static/js/1.5fa4ce0a.chunk.js": "/corporate-robots/static/js/1.5fa4ce0a.chunk.js",
+  "static/js/1.5fa4ce0a.chunk.js.map": "/corporate-robots/static/js/1.5fa4ce0a.chunk.js.map",
   "runtime~main.js": "/corporate-robots/static/js/runtime~main.860a9702.js",
   "runtime~main.js.map": "/corporate-robots/static/js/runtime~main.860a9702.js.map",
-  "static/css/main.cf37ef2f.chunk.css.map": "/corporate-robots/static/css/main.cf37ef2f.chunk.css.map",
+  "static/css/main.d001497c.chunk.css.map": "/corporate-robots/static/css/main.d001497c.chunk.css.map",
   "index.html": "/corporate-robots/index.html",
-  "precache-manifest.8e2a7933025bf21c913ab37b753fba3e.js": "/corporate-robots/precache-manifest.8e2a7933025bf21c913ab37b753fba3e.js",
+  "precache-manifest.a5d1bfec9fb2376f963789f0a9f71867.js": "/corporate-robots/precache-manifest.a5d1bfec9fb2376f963789f0a9f71867.js",
   "service-worker.js": "/corporate-robots/service-worker.js"
 }
