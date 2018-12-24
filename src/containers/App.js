@@ -1,10 +1,9 @@
 import React, { Component } from "react";
 import "./App.css";
-// import Logo from "./Robot.svg";
-import CardList from "./CardList";
-import Scroll from "./Scroll";
-import robotList from "./robots";
-import SearchBox from "./SearchBox";
+import CardList from "../components/CardList";
+import Scroll from "../components/Scroll";
+import robotList from "../robots";
+import SearchBox from "../components/SearchBox";
 
 class App extends Component {
   constructor() {
