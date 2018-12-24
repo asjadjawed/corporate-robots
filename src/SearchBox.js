@@ -4,15 +4,17 @@ const SearchBox = ({ onSearchChange }) => (
   <input
     id="SearchBox"
     type="search"
-    placeholder="Search Executives"
+    placeholder="search executives"
     style={{
       textAlign: "center",
+      color: "white",
       outline: "none",
-      border: "1px solid black",
+      border: "none",
       borderRadius: "40px",
       padding: "10px",
       fontSize: "1rem",
-      fontFamily: `"Sansita", sans-serif`
+      fontFamily: `"Sansita", sans-serif`,
+      background: "#004050"
     }}
     onChange={onSearchChange}
   />

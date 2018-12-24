@@ -29,7 +29,7 @@ class App extends Component {
         <header>
           <h1>Robo Inc. Team</h1>
           <p>
-            <em>Only the best corporate robots</em>
+            <em>&ldquo;Only the best corporate robots!&rdquo;</em>
           </p>
           <SearchBox onSearchChange={this.onSearchChange} />
         </header>
