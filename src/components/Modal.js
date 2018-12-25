@@ -4,8 +4,8 @@ import "./Modal.css";
 const Modal = ({ modalState, modalRobot, hideModal }) => {
   const { id, name, title, activity, department, jobDescription } = modalRobot;
   return (
-    <div id="Modal" className={modalState}>
-      <div className="modalContent">
+    <div id="Modal" className={modalState} onClick={hideModal}>
+      <div className="modalContent" onClick={e => e.stopPropagation()}>
         <img
           src={`https://robohash.org/${title.slice(0, 3) +
             id}?set=set3&size=150x150`}
