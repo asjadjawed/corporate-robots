@@ -22,7 +22,6 @@
   justify-content: flex-start;
   align-items: center;
   background: linear-gradient(260deg, #034f79, #067577);
-  transform: scale(0.9);
 }
 
 .modalContent img {
@@ -59,6 +58,7 @@
   oultine: none;
   border: 2px solid white;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .on {

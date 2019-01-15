@@ -1,8 +1,15 @@
 import React from "react";
 import "./Modal.css";
 
-const Modal = ({ modalState, modalRobot, hideModal }) => {
-  const { id, name, title, activity, department, jobDescription } = modalRobot;
+const Modal = ({ modalState, selectedRobot, hideModal }) => {
+  const {
+    id,
+    name,
+    title,
+    activity,
+    department,
+    jobDescription
+  } = selectedRobot;
   return (
     <div id="Modal" className={modalState} onClick={hideModal}>
       <div className="modalContent" onClick={e => e.stopPropagation()}>
