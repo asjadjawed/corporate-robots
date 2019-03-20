@@ -1,6 +1,6 @@
 # Coporate Robots
 
-Live: [https://asjadjawed.github.io/corporate-robots/](https://asjadjawed.github.io/corporate-robots/)
+Live: [https://asjad.dev/corporate-robots/](https://asjad.dev/corporate-robots/)
 
 Listing of only the best corporate robots. Filer the executive with the search box.
 
